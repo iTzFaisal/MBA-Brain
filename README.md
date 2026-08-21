@@ -27,7 +27,8 @@ npx skills add iTzFaisal/MBA-Brain
 After installation, call a skill with its exact ID using the `/SKILL-NAME` invocation. For example:
 
 ```text
-/FIN500-Principles-of-Finance Evaluate this project's investment using capital budgeting, NPV, and WACC. Explain the assumptions and cite the relevant framework.
+/FIN500-Principles-of-Finance Evaluate this project's investment using capital budgeting,
+NPV, and WACC. Explain the assumptions and cite the relevant framework.
 ```
 
 ## Course Skills
