@@ -16,6 +16,20 @@ The repository maps the 12-course MBA curriculum and the 4-course Pre-MBA prepar
 
 This is a study-oriented repository mapping, not an official SEU publication or a replacement for the university's current requirements and study plan.
 
+## Installation
+
+Run these commands from the project where you want the textbook skills to be available. Install all skills with the [`skills` CLI](https://skills.sh/):
+
+```bash
+npx skills add iTzFaisal/MBA-Brain
+```
+
+After installation, call a skill with its exact ID using the `/SKILL-NAME` invocation. For example:
+
+```text
+/FIN500-Principles-of-Finance Evaluate this project's investment using capital budgeting, NPV, and WACC. Explain the assumptions and cite the relevant framework.
+```
+
 ## Course Skills
 
 Each link opens the skill's `SKILL.md`, which is the entrypoint and index for that course.
@@ -50,15 +64,6 @@ Each course skill contains:
 - `patterns.md`: repeatable procedures, trade-offs, and anti-patterns
 
 The same skill corpus is available in both `.claude/skills/` and `.agents/skills/` for compatible agent environments. Keep the two directories synchronized when editing a skill.
-
-## Using The Knowledge Base
-
-1. Open the relevant course's `SKILL.md`.
-2. Start with its core frameworks and usage instructions.
-3. Search the topic index and follow the chapter link for detailed treatment.
-4. Use `cheatsheet.md`, `glossary.md`, and `patterns.md` for quick reference.
-
-Use the exact skill directory names when linking to or invoking a skill. Keep each directory name and its `SKILL.md` frontmatter `name` value synchronized.
 
 ## DISCLAIMER
 
