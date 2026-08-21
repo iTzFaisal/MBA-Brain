@@ -24,7 +24,7 @@ Run these commands from the project where you want the textbook skills to be ava
 npx skills add iTzFaisal/MBA-Brain
 ```
 
-After installation, call a skill with its exact ID using the `/SKILL-NAME` invocation. For example:
+After installation, call a skill with your agent. For example:
 
 ```text
 /FIN500-Principles-of-Finance Evaluate this project's investment using capital budgeting,
