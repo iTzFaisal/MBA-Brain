@@ -6,13 +6,13 @@ SEU describes the MBA as a blended-learning program that combines traditional an
 
 The repository maps the 12-course MBA curriculum and the 4-course Pre-MBA preparatory semester to the skills below:
 
-| Curriculum component         | Skill IDs                                 |
-| ---------------------------- | ----------------------------------------- |
-| Pre-MBA preparatory semester | `MGT490`, `ECON490`, `ACCT490`, `STAT490` |
-| MBA Year 1, Semester 1       | `ECON500`, `RES500`, `FIN500`             |
-| MBA Year 1, Semester 2       | `MGT560`, `MGT520`, `MGT510`              |
-| MBA Year 2, Semester 3       | `ACT500`, `MGT521`, `MGT530`              |
-| MBA Year 2, Semester 4       | `ECOM500`, `MGT675`, `MGT672`             |
+| Curriculum component         | Skill/Course IDs                                                                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-MBA preparatory semester | `MGT490-Principles-of-Management`, `ECON490-Microeconomics`, `ACCT490-Principles-of-Accounting`, `STAT490-Statistics`            |
+| MBA Year 1, Semester 1       | `ECON500-Global-Economics`, `RES500-Academic-Writing-and-Research-Skills`, `FIN500-Principles-of-Finance`                        |
+| MBA Year 1, Semester 2       | `MGT560-Leadership-Development`, `MGT520-Managing-Performance-for-Results`, `MGT510-Strategy-Planning`                           |
+| MBA Year 2, Semester 3       | `ACT500-Managerial-Accounting`, `MGT521-Managing-Dynamic-Environment`, `MGT530-Operations-Management`                            |
+| MBA Year 2, Semester 4       | `ECOM500-Business-and-Information-Technology`, `MGT675-Research-Project`, `MGT672-Decision-Theory-within-the-Global-Marketplace` |
 
 This is a study-oriented repository mapping, not an official SEU publication or a replacement for the university's current requirements and study plan.
 
